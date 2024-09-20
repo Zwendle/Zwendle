@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to Zwendle's Profile :)
+### Hi there 👋 Welcome to Zachary Wen's Profile :)
 
 <!--
 **Zwendle/Zwendle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
